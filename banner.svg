@@ -1,0 +1,45 @@
+<svg width="100%" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="50%" stop-color="#2d1454"/>
+      <stop offset="100%" stop-color="#0f0620"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2fd0"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bg)" rx="14"/>
+  <rect x="4" y="4" width="892" height="252" fill="none" stroke="#ff2fd0" stroke-width="2" rx="12" opacity="0.7"/>
+  <rect x="10" y="10" width="880" height="240" fill="none" stroke="#00f0ff" stroke-width="1" rx="10" opacity="0.4"/>
+
+  <text x="40" y="55" font-family="Trebuchet MS, sans-serif" font-size="30" font-weight="900" fill="#ffffff">MUHAMMAD ASAD AKRAM</text>
+  <text x="40" y="80" font-family="Trebuchet MS, sans-serif" font-size="15" fill="#00f0ff">CLASS: Machine Learning Engineer  //  GUILD: IntelliXsoft</text>
+
+  <rect x="780" y="25" width="90" height="90" rx="45" fill="#0f0620" stroke="#ff2fd0" stroke-width="3"/>
+  <text x="825" y="82" font-family="Trebuchet MS, sans-serif" font-size="34" font-weight="900" fill="#00f0ff" text-anchor="middle">99</text>
+  <text x="825" y="20" font-family="Trebuchet MS, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">LVL</text>
+
+  <text x="40" y="120" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#c9a9ff">HP (Motivation)</text>
+  <rect x="40" y="128" width="380" height="14" rx="7" fill="#2a1550"/>
+  <rect x="40" y="128" width="360" height="14" rx="7" fill="url(#bar)"/>
+
+  <text x="40" y="158" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#c9a9ff">MP (Curiosity)</text>
+  <rect x="40" y="166" width="380" height="14" rx="7" fill="#2a1550"/>
+  <rect x="40" y="166" width="340" height="14" rx="7" fill="url(#bar)"/>
+
+  <text x="40" y="196" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#c9a9ff">XP to next level</text>
+  <rect x="40" y="204" width="380" height="14" rx="7" fill="#2a1550"/>
+  <rect x="40" y="204" width="260" height="14" rx="7" fill="url(#bar)"/>
+
+  <g font-family="Trebuchet MS, sans-serif" font-size="13" fill="#ffffff">
+    <text x="460" y="120">📍 Bahawalpur, Pakistan</text>
+    <text x="460" y="145">🎯 Computer Vision · NLP</text>
+    <text x="460" y="170">⚔️ 1+ Year Active Quest Log</text>
+    <text x="460" y="195">🔥 Currently Grinding: MLOps</text>
+  </g>
+
+  <text x="40" y="238" font-family="Trebuchet MS, sans-serif" font-size="12" fill="#ff2fd0">"ship the model, don't just train it"</text>
+</svg>
