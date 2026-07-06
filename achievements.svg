@@ -1,0 +1,38 @@
+<svg width="100%" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="badgebg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2d1454"/>
+      <stop offset="100%" stop-color="#1a0b2e"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="Trebuchet MS, sans-serif">
+    <!-- Badge 1 -->
+    <rect x="20" y="10" width="200" height="110" rx="12" fill="url(#badgebg)" stroke="#ff2fd0" stroke-width="1.5"/>
+    <circle cx="120" cy="45" r="20" fill="#0f0620" stroke="#00f0ff" stroke-width="2"/>
+    <text x="120" y="52" text-anchor="middle" font-size="18" fill="#00f0ff">🤖</text>
+    <text x="120" y="85" text-anchor="middle" font-size="12" fill="#ffffff" font-weight="700">ML Engineer</text>
+    <text x="120" y="102" text-anchor="middle" font-size="10" fill="#c9a9ff">Class Unlocked</text>
+
+    <!-- Badge 2 -->
+    <rect x="240" y="10" width="200" height="110" rx="12" fill="url(#badgebg)" stroke="#00f0ff" stroke-width="1.5"/>
+    <circle cx="340" cy="45" r="20" fill="#0f0620" stroke="#ff2fd0" stroke-width="2"/>
+    <text x="340" y="52" text-anchor="middle" font-size="18" fill="#ff2fd0">👁️</text>
+    <text x="340" y="85" text-anchor="middle" font-size="12" fill="#ffffff" font-weight="700">Vision Master</text>
+    <text x="340" y="102" text-anchor="middle" font-size="10" fill="#c9a9ff">4 Projects Shipped</text>
+
+    <!-- Badge 3 -->
+    <rect x="460" y="10" width="200" height="110" rx="12" fill="url(#badgebg)" stroke="#9d4edd" stroke-width="1.5"/>
+    <circle cx="560" cy="45" r="20" fill="#0f0620" stroke="#9d4edd" stroke-width="2"/>
+    <text x="560" y="52" text-anchor="middle" font-size="18" fill="#9d4edd">⚡</text>
+    <text x="560" y="85" text-anchor="middle" font-size="12" fill="#ffffff" font-weight="700">Fast Shipper</text>
+    <text x="560" y="102" text-anchor="middle" font-size="10" fill="#c9a9ff">1+ Year Streak</text>
+
+    <!-- Badge 4 -->
+    <rect x="680" y="10" width="200" height="110" rx="12" fill="url(#badgebg)" stroke="#ff2fd0" stroke-width="1.5"/>
+    <circle cx="780" cy="45" r="20" fill="#0f0620" stroke="#00f0ff" stroke-width="2"/>
+    <text x="780" y="52" text-anchor="middle" font-size="18" fill="#00f0ff">🧠</text>
+    <text x="780" y="85" text-anchor="middle" font-size="12" fill="#ffffff" font-weight="700">Always Learning</text>
+    <text x="780" y="102" text-anchor="middle" font-size="10" fill="#c9a9ff">MLOps in Progress</text>
+  </g>
+</svg>
