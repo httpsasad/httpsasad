@@ -1,133 +1,103 @@
-<table>
-<tr>
-<td width="18%"><img src="./avatar.svg" width="100%"/></td>
-<td width="82%"><img src="./banner.svg" width="100%"/></td>
-</tr>
-</table>
+<div align="center">
+<img src="./banner.svg" width="100%"/>
+</div>
 
 <br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff2fd0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadasadakram)
-[![Kaggle](https://img.shields.io/badge/Kaggle-00f0ff?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/asad30)
-[![Mail](https://img.shields.io/badge/Mail-9d4edd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadkhankhan3073@gmail.com)
+<a href="https://www.linkedin.com/in/muhammadasadakram"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=d4af37"/></a>
+<a href="https://www.kaggle.com/asad30"><img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=d4af37"/></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=d4af37"/></a>
 
 </div>
 
 <br>
 
-## 🎮 Character Stats
+<h3 align="center">— PROFILE —</h3>
+
+<p align="center" width="700">
+Machine Learning Engineer building end-to-end AI systems — from data pipeline to production API. Currently at <b>IntelliXsoft</b>, working across computer vision, NLP, and full-stack deployment.
+</p>
+
+<br>
+
+<h3 align="center">— EXPERTISE —</h3>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**⚔️ Attack (Frameworks)**
-```
-TensorFlow   ▰▰▰▰▰▰▰▰▰▱  90
-PyTorch      ▰▰▰▰▰▰▰▰▱▱  80
-OpenCV       ▰▰▰▰▰▰▰▱▱▱  70
-```
-
+<td align="center" width="25%">
+<sub>LANGUAGES</sub><br><br>
+Python &#183; C++
 </td>
-<td width="50%" valign="top">
-
-**🛡️ Defense (Core Skills)**
-```
-Python       ▰▰▰▰▰▰▰▰▰▰ 100
-FastAPI      ▰▰▰▰▰▰▰▰▱▱  80
-React        ▰▰▰▰▰▰▱▱▱▱  60
-```
-
+<td align="center" width="25%">
+<sub>MACHINE LEARNING</sub><br><br>
+TensorFlow &#183; PyTorch &#183; scikit-learn
+</td>
+<td align="center" width="25%">
+<sub>COMPUTER VISION</sub><br><br>
+OpenCV &#183; Deep Learning
+</td>
+<td align="center" width="25%">
+<sub>DEPLOYMENT</sub><br><br>
+FastAPI &#183; React &#183; Docker
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
 
-## 🗺️ Quest Log (Featured Projects)
+<h3 align="center">— SELECTED WORK —</h3>
+
+<div align="center">
 
 <table>
-<tr><th>Quest</th><th>Type</th><th>Status</th></tr>
 <tr>
-<td><a href="https://github.com/httpsasad/emotion-music-ai-pro"><b>emotion-music-ai-pro</b></a></td>
-<td>Vision + Recommendation</td>
-<td>🟢 Completed</td>
+<td width="50%" align="center">
+<b><a href="https://github.com/httpsasad/emotion-music-ai-pro">Emotion Music AI Pro</a></b>
+<br><sub>Real-time emotion detection with contextual music recommendation</sub>
+</td>
+<td width="50%" align="center">
+<b><a href="https://github.com/httpsasad/smart-traffic-management-system">Smart Traffic Management</a></b>
+<br><sub>Computer vision driven traffic flow optimization</sub>
+</td>
 </tr>
+<tr><td colspan="2"><br></td></tr>
 <tr>
-<td><a href="https://github.com/httpsasad/smart-traffic-management-system"><b>smart-traffic-management-system</b></a></td>
-<td>Computer Vision</td>
-<td>🟢 Completed</td>
-</tr>
-<tr>
-<td><a href="https://github.com/httpsasad/fire_smoke_detection_system"><b>fire_smoke_detection_system</b></a></td>
-<td>Detection System</td>
-<td>🟢 Completed</td>
-</tr>
-<tr>
-<td><a href="https://github.com/httpsasad/khidmat-ai"><b>khidmat-ai</b></a></td>
-<td>Automation Platform</td>
-<td>🟡 In Progress</td>
+<td width="50%" align="center">
+<b><a href="https://github.com/httpsasad/fire_smoke_detection_system">Fire & Smoke Detection</a></b>
+<br><sub>Early hazard detection using vision models</sub>
+</td>
+<td width="50%" align="center">
+<b><a href="https://github.com/httpsasad/khidmat-ai">Khidmat AI</a></b>
+<br><sub>AI-driven service automation platform</sub>
+</td>
 </tr>
 </table>
 
-<br>
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-<img src="./achievements.svg" width="100%"/>
-
 </div>
 
 <br>
 
-## 📜 Inventory (Tech Stack)
+<h3 align="center">— STATISTICS —</h3>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-1a0b2e?style=for-the-badge&logo=python&logoColor=00f0ff)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-1a0b2e?style=for-the-badge&logo=tensorflow&logoColor=ff2fd0)
-![PyTorch](https://img.shields.io/badge/-PyTorch-1a0b2e?style=for-the-badge&logo=pytorch&logoColor=00f0ff)
-![OpenCV](https://img.shields.io/badge/-OpenCV-1a0b2e?style=for-the-badge&logo=opencv&logoColor=ff2fd0)
-![FastAPI](https://img.shields.io/badge/-FastAPI-1a0b2e?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
-![React](https://img.shields.io/badge/-React-1a0b2e?style=for-the-badge&logo=react&logoColor=ff2fd0)
-![Docker](https://img.shields.io/badge/-Docker-1a0b2e?style=for-the-badge&logo=docker&logoColor=00f0ff)
-![Git](https://img.shields.io/badge/-Git-1a0b2e?style=for-the-badge&logo=git&logoColor=ff2fd0)
-
-</div>
-
-<br>
-
-## 📊 Battle Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0b2e"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&theme=synthwave&hide_border=true&bg_color=1a0b2e"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=httpsasad&theme=synthwave&hide_border=true&background=1a0b2e" alt="streak stats"/>
-
-</div>
-
-<br>
-
-## 🐍 The Grind Never Stops
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/httpsasad/httpsasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&theme=transparent&hide_border=true&title_color=d4af37&icon_color=d4af37&text_color=e8e8e0&hide_title=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&theme=transparent&hide_border=true&title_color=d4af37&text_color=e8e8e0&hide_title=true"/>
 
 </div>
 
 <br>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=httpsasad&color=ff2fd0&style=for-the-badge&label=TIMES+SUMMONED)
-
-**🕹️ Press START to collaborate — always up for a co-op quest!**
-
+<img src="./banner.svg" width="100%" style="opacity:0.6"/>
 </div>
+
+<p align="center">
+<sub>THANK YOU FOR VISITING</sub>
+</p>
