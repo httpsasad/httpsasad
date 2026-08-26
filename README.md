@@ -1,170 +1,133 @@
-# Muhammad Asad Akram — GitHub Profile README
+Bilkul — ye **complete updated README.md file** hai. Is mein top par **LinkedIn, Kaggle aur Gmail buttons/icons** bhi add kar diye hain.
 
 <div align="center">
 
 # 👋 Muhammad Asad Akram
 
-### AI Engineer · Machine Learning Engineer · Python Developer
+## Building Production-Oriented AI Systems with ML, LLMs & Computer Vision
 
-**Building intelligent systems that transform data, automation, and AI into real-world products.**
-
-From **Machine Learning & Deep Learning** to **LLMs, RAG pipelines, AI Agents, Computer Vision, and production-ready APIs**.
+**AI Engineer focused on transforming data, machine learning, and intelligent automation into practical applications.**
 
 <br/>
 
-<a href="https://linkedin.com/in/muhammadasadakram">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/muhammadasadakram/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:asaddaha3073@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+&nbsp;
 <a href="https://www.kaggle.com/asad30">
-  <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+&nbsp;
+<a href="mailto:asaddaha3073@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=httpsasad&label=PROFILE+VIEWS&style=for-the-badge"/>
+`Machine Learning` • `LLMs & Generative AI` • `RAG` • `AI Agents` • `Computer Vision` • `AI Applications`
 
 </div>
 
 ---
 
-## ⚡ About Me
+# ⚡ About
 
-```python
-class MuhammadAsadAkram:
+I build **end-to-end AI applications** that combine machine learning, intelligent systems, backend engineering, and user-facing products.
 
-    role = "AI & Machine Learning Engineer"
+My work focuses on moving beyond isolated models by connecting:
 
-    expertise = [
-        "Machine Learning",
-        "Deep Learning",
-        "LLMs & Generative AI",
-        "RAG Pipelines",
-        "AI Agents",
-        "Natural Language Processing",
-        "Computer Vision",
-        "Predictive Analytics"
-    ]
+> **Data → Intelligence → APIs → Applications**
 
-    backend = [
-        "FastAPI",
-        "Flask",
-        "REST APIs"
-    ]
+The goal is to build practical AI systems that are usable, scalable, and designed around real-world problems.
 
-    currently_building = [
-        "Production-ready AI Systems",
-        "LLM Applications",
-        "AI Automation",
-        "Intelligent Data Platforms"
-    ]
-
-    philosophy = "Don't just train models. Build systems that people can actually use."
-```
-
-I build **end-to-end AI applications** — starting from raw data and experimentation, moving through model development and API engineering, and finishing with scalable, user-facing products.
-
-My focus is on combining:
-
-> **AI + Software Engineering + Automation = Real-world intelligent systems**
+> **A model is only the beginning. The real challenge is turning intelligence into a reliable system that people can actually use.**
 
 ---
 
-# 🧠 AI & Machine Learning Ecosystem
+# 🧠 Core Expertise
 
-### Machine Learning & Data Science
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
+### 🤖 Generative AI
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge"/>
+* LLM-powered applications
+* Retrieval-Augmented Generation
+* AI assistants
+* AI agents
+* Intelligent automation
+* Prompt engineering
 
-</p>
+</td>
 
-### Deep Learning & Generative AI
+<td width="50%" valign="top">
 
-<p>
+### 🧠 Machine Learning
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge"/>
+* Predictive analytics
+* Classification systems
+* Recommendation systems
+* Model inference pipelines
+* Data-driven applications
+* Explainable AI
 
-</p>
+</td>
+</tr>
 
-### 🤖 LLMs, RAG & AI Agents
+<tr>
+<td width="50%" valign="top">
 
-<p>
+### 👁️ Computer Vision
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge"/>
+* Object detection
+* Image analysis
+* Video analytics
+* Real-time detection systems
 
-</p>
+</td>
 
-### 🗄️ Vector Databases
+<td width="50%" valign="top">
 
-<p>
+### 💬 NLP & Data Intelligence
 
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+* Emotion detection
+* Sentiment analysis
+* Text processing
+* Personalized recommendations
+* Structured data analysis
 
-</p>
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+### 🐍 AI & Machine Learning
+
+`Python` · `Scikit-learn` · `Pandas` · `NumPy` · `SHAP`
+
+### 🤖 Generative AI
+
+`LLMs` · `Generative AI` · `RAG Pipelines` · `AI Agents` · `Prompt Engineering`
 
 ### 👁️ Computer Vision & NLP
 
-<p>
+`OpenCV` · `Computer Vision` · `Natural Language Processing` · `Sentiment Analysis`
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sentiment_Analysis-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-009688?style=for-the-badge"/>
+### ⚙️ Backend Engineering
 
-</p>
+`FastAPI` · `Flask` · `REST APIs`
 
----
+### 🖥️ Frontend & Data
 
-# 🏗️ Engineering Stack
+`React` · `JavaScript` · `HTML` · `CSS` · `PostgreSQL`
 
-### Backend & APIs
+### 🔧 Development Tools
 
-<p>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
-### Databases & Infrastructure
-
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
+`Git` · `GitHub`
 
 ---
 
@@ -172,52 +135,87 @@ My focus is on combining:
 
 ## 🏥 AI Healthcare Prediction Platform
 
-> An intelligent healthcare analytics system designed for predictive insights.
+**Machine Learning · Explainable AI · FastAPI · React**
 
-### Core Capabilities
+An AI-powered healthcare analytics platform designed to transform structured data into predictive insights.
+
+### What It Demonstrates
 
 * Multi-disease risk prediction
-* Machine Learning inference pipelines
+* Machine learning inference pipelines
+* Explainable predictions using SHAP
 * FastAPI backend services
-* SHAP-based model explainability
 * React analytics dashboard
 * PostgreSQL data management
-* API-based prediction architecture
+* API-driven prediction workflows
 
-**Stack**
+### Architecture
 
-`Python` · `Scikit-learn` · `FastAPI` · `React` · `SHAP` · `PostgreSQL`
+```text
+User
+  │
+  ▼
+React Dashboard
+  │
+  ▼
+FastAPI Backend
+  │
+  ├───────────────┬────────────────┐
+  ▼               ▼                ▼
+ML Models      SHAP / XAI      PostgreSQL
+  │               │                │
+  └───────────────┴────────────────┘
+                  │
+                  ▼
+         Predictive Insights
+```
+
+**Tech:** `Python` · `Scikit-learn` · `FastAPI` · `React` · `SHAP` · `PostgreSQL`
 
 ---
 
-## ⚽ Football 3D Data Intelligence Platform
+## ⚽ Football Data Intelligence Platform
 
-A data-driven platform that transforms structured football data into interactive performance intelligence.
+**Data Processing · Analytics · PostgreSQL · React**
 
-### Features
+A data-driven application focused on transforming structured football data into useful performance intelligence.
 
-* Advanced data pipelines
-* Performance analytics
-* Interactive visualizations
+### What It Demonstrates
+
 * Structured data processing
-* Frontend intelligence dashboard
+* Analytics pipelines
+* Performance intelligence
+* Interactive visualizations
+* Data-driven dashboards
 
-**Stack**
+```text
+Football Data
+      ↓
+Data Processing
+      ↓
+Analytics Pipeline
+      ↓
+Performance Intelligence
+      ↓
+Interactive Dashboard
+```
 
-`Python` · `PostgreSQL` · `React` · `Data Analytics`
+**Tech:** `Python` · `PostgreSQL` · `React` · `Data Analytics`
 
 ---
 
 ## 🎵 Emotion Music AI
 
-AI-powered application combining **emotion detection** with personalized music recommendations.
+**NLP · Emotion Detection · Recommendation Systems**
+
+An AI-powered application that connects emotion detection with personalized music recommendations.
 
 ### Pipeline
 
 ```text
 User Input
     ↓
-Emotion / Sentiment Detection
+Emotion Detection
     ↓
 NLP Processing
     ↓
@@ -226,13 +224,19 @@ Recommendation Engine
 Personalized Music Experience
 ```
 
-**Repository:** [emotion-music-ai-pro](https://github.com/httpsasad/emotion-music-ai-pro)
+**Focus:** `Emotion Detection` · `NLP` · `Sentiment Analysis` · `Recommendation Systems`
+
+📂 **Repository:** [Explore Emotion Music AI](https://github.com/httpsasad/emotion-music-ai-pro)
 
 ---
 
 ## 🚦 Smart Traffic Management System
 
-A machine learning-driven system focused on analyzing traffic patterns and generating intelligent insights.
+**Machine Learning · Data Processing · Predictive Analytics**
+
+A machine learning-driven system focused on processing traffic data, identifying patterns, and generating intelligent insights.
+
+### Pipeline
 
 ```text
 Traffic Data
@@ -246,89 +250,44 @@ Traffic Intelligence
 Optimization Insights
 ```
 
-**Repository:** [smart-traffic-management-system](https://github.com/httpsasad/smart-traffic-management-system)
+**Focus:** `Machine Learning` · `Data Processing` · `Predictive Analytics`
+
+📂 **Repository:** [Explore Smart Traffic Management System](https://github.com/httpsasad/smart-traffic-management-system)
 
 ---
 
 ## 🔥 Fire & Smoke Detection System
 
-Real-time computer vision system for detecting fire and smoke from image and video streams.
+**Computer Vision · Deep Learning · OpenCV**
 
-### Technologies
+A computer vision system focused on detecting fire and smoke from image and video streams.
 
-`Python` · `Computer Vision` · `OpenCV` · `Deep Learning`
+### What It Demonstrates
 
-**Repository:** [fire_smoke_detection_system](https://github.com/httpsasad/fire_smoke_detection_system)
+* Image analysis
+* Video stream processing
+* Computer vision pipelines
+* Deep learning-based detection
+* Real-time detection workflows
 
----
+**Tech:** `Python` · `OpenCV` · `Computer Vision` · `Deep Learning`
 
-# 🤖 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI Applications
-
-* LLM-powered applications
-* RAG systems
-* AI assistants
-* AI agents
-* Intelligent automation
-
-</td>
-
-<td width="50%">
-
-### 📊 Machine Learning Systems
-
-* Predictive analytics
-* Classification systems
-* Recommendation engines
-* Data intelligence platforms
-* Model inference APIs
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 👁️ Computer Vision
-
-* Object detection
-* Image classification
-* Video analytics
-* Real-time detection systems
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Full-Stack AI
-
-* FastAPI backends
-* React dashboards
-* PostgreSQL databases
-* Authentication systems
-* Production-style APIs
-
-</td>
-</tr>
-</table>
+📂 **Repository:** [Explore Fire & Smoke Detection System](https://github.com/httpsasad/fire_smoke_detection_system)
 
 ---
 
-# 🧩 AI System Architecture
+# 🏗️ How I Build AI Systems
+
+I approach AI applications as **complete engineering systems**, where intelligence is one component of a larger application architecture.
 
 ```text
                     ┌─────────────────────┐
-                    │     USER / CLIENT   │
+                    │    USER / CLIENT    │
                     └──────────┬──────────┘
                                │
                                ▼
                     ┌─────────────────────┐
-                    │  FRONTEND / CLIENT  │
+                    │  APPLICATION LAYER  │
                     │   React / Web App   │
                     └──────────┬──────────┘
                                │
@@ -341,7 +300,7 @@ Real-time computer vision system for detecting fire and smoke from image and vid
               ┌────────────────┼────────────────┐
               ▼                ▼                ▼
        ┌─────────────┐   ┌─────────────┐  ┌─────────────┐
-       │ ML MODELS   │   │ LLM / RAG   │  │ DATABASE    │
+       │ ML MODELS   │   │ LLM / RAG   │  │ DATA LAYER  │
        │             │   │ AI AGENTS   │  │ PostgreSQL  │
        └─────────────┘   └─────────────┘  └─────────────┘
               │                │                │
@@ -354,49 +313,92 @@ Real-time computer vision system for detecting fire and smoke from image and vid
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=httpsasad&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔭 Currently Exploring
+# 🔨 Current Focus
 
 ```yaml
 Focus Areas:
   - Advanced LLM Applications
   - Retrieval-Augmented Generation
-  - Multi-Agent AI Systems
-  - LangGraph Workflows
-  - AI Automation
-  - Production AI Architecture
-  - MLOps Practices
+  - AI Agent Workflows
+  - Intelligent Automation
+  - Production-Oriented AI Architecture
   - Scalable Machine Learning Systems
 ```
 
 ---
 
+# 💡 What I Build
+
+### 🤖 Intelligent AI Applications
+
+* LLM-powered applications
+* RAG systems
+* AI assistants
+* AI agent workflows
+* Intelligent automation
+
+### 🧠 Machine Learning Systems
+
+* Predictive analytics
+* Classification systems
+* Recommendation engines
+* Model inference pipelines
+* Explainable AI applications
+
+### 👁️ Computer Vision Solutions
+
+* Object detection
+* Image analysis
+* Video analytics
+* Real-time detection systems
+
+### ⚙️ Full-Stack AI Applications
+
+* AI-powered REST APIs
+* FastAPI backend services
+* React dashboards
+* PostgreSQL-backed applications
+* End-to-end AI systems
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&hide_border=true" alt="GitHub Statistics" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
+
 # 🎯 Engineering Philosophy
 
-> **A model is only the beginning.**
->
-> The real challenge is transforming intelligence into a reliable, usable, scalable system.
+> **Don't just train models. Build systems that people can actually use.**
 
-I enjoy working at the intersection of:
+```text
+Data
+  +
+Machine Learning
+  +
+Software Engineering
+  +
+APIs
+  +
+Automation
+  +
+User Experience
+  =
+Real-World AI Systems
+```
 
-**Artificial Intelligence × Software Engineering × Automation**
+The goal is to build at the intersection of:
 
-with the goal of building systems that solve real-world problems.
+### **Artificial Intelligence × Software Engineering × Automation**
 
 ---
 
@@ -405,39 +407,37 @@ with the goal of building systems that solve real-world problems.
 I'm interested in collaborating on:
 
 * 🚀 AI-powered products
-* 🤖 LLM & RAG applications
-* 🧠 Machine Learning systems
-* ⚙️ AI automation
-* 📊 Data intelligence platforms
-* 👁️ Computer Vision solutions
-* 🌍 Full-stack AI products
-
-<div align="center">
-
-### **Turning Ideas into Intelligent Systems.**
+* 🤖 LLM applications
+* 🔎 RAG systems
+* 🧠 Machine learning platforms
+* ⚙️ Intelligent automation
+* 👁️ Computer vision solutions
+* 🌍 End-to-end AI applications
 
 <br/>
 
-<a href="https://linkedin.com/in/muhammadasadakram">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/muhammadasadakram/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.kaggle.com/asad30">
+  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
 <a href="mailto:asaddaha3073@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-**📍 Lahore, Pakistan**
-
-</div>
+📍 **Lahore, Pakistan**
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider exploring my repositories.
+### ⭐ Explore the repositories and follow the journey.
 
-**Build. Learn. Deploy. Repeat. 🚀**
+**BUILD · LEARN · DEPLOY · REPEAT 🚀**
 
 </div>
