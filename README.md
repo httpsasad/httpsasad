@@ -1,12 +1,12 @@
-Bilkul — ye **complete updated README.md file** hai. Is mein top par **LinkedIn, Kaggle aur Gmail buttons/icons** bhi add kar diye hain.
-
 <div align="center">
 
-# 👋 Muhammad Asad Akram
+<img src="./github-profile-banner.png" alt="Muhammad Asad Akram — AI Engineer" width="100%" />
 
-## Building Production-Oriented AI Systems with ML, LLMs & Computer Vision
+👋 Muhammad Asad Akram
 
-**AI Engineer focused on transforming data, machine learning, and intelligent automation into practical applications.**
+Building Production-Oriented AI Systems with ML, LLMs & Computer Vision
+
+AI Engineer focused on transforming data, machine learning, and intelligent automation into practical applications.
 
 <br/>
 
@@ -24,134 +24,145 @@ Bilkul — ye **complete updated README.md file** hai. Is mein top par **LinkedI
 
 <br/><br/>
 
-`Machine Learning` • `LLMs & Generative AI` • `RAG` • `AI Agents` • `Computer Vision` • `AI Applications`
+Machine Learning • LLMs & Generative AI • RAG • AI Agents • Computer Vision • AI Applications
 
 </div>
 
----
+⚡ About
 
-# ⚡ About
-
-I build **end-to-end AI applications** that combine machine learning, intelligent systems, backend engineering, and user-facing products.
+I build end-to-end AI applications that combine machine learning, intelligent systems, backend engineering, and user-facing products.
 
 My work focuses on moving beyond isolated models by connecting:
 
-> **Data → Intelligence → APIs → Applications**
+Data → Intelligence → APIs → Applications
 
 The goal is to build practical AI systems that are usable, scalable, and designed around real-world problems.
 
-> **A model is only the beginning. The real challenge is turning intelligence into a reliable system that people can actually use.**
+A model is only the beginning. The real challenge is turning intelligence into a reliable system that people can actually use.
 
----
-
-# 🧠 Core Expertise
+🧠 Core Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Generative AI
+🤖 Generative AI
 
-* LLM-powered applications
-* Retrieval-Augmented Generation
-* AI assistants
-* AI agents
-* Intelligent automation
-* Prompt engineering
+LLM-powered applications
+
+Retrieval-Augmented Generation
+
+AI assistants
+
+AI agents
+
+Intelligent automation
+
+Prompt engineering
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning
+🧠 Machine Learning
 
-* Predictive analytics
-* Classification systems
-* Recommendation systems
-* Model inference pipelines
-* Data-driven applications
-* Explainable AI
+Predictive analytics
+
+Classification systems
+
+Recommendation systems
+
+Model inference pipelines
+
+Data-driven applications
+
+Explainable AI
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Computer Vision
+👁️ Computer Vision
 
-* Object detection
-* Image analysis
-* Video analytics
-* Real-time detection systems
+Object detection
+
+Image analysis
+
+Video analytics
+
+Real-time detection systems
 
 </td>
-
 <td width="50%" valign="top">
 
-### 💬 NLP & Data Intelligence
+💬 NLP & Data Intelligence
 
-* Emotion detection
-* Sentiment analysis
-* Text processing
-* Personalized recommendations
-* Structured data analysis
+Emotion detection
+
+Sentiment analysis
+
+Text processing
+
+Personalized recommendations
+
+Structured data analysis
 
 </td>
 </tr>
 </table>
 
----
+🛠️ Technology Stack
 
-# 🛠️ Technology Stack
+🐍 AI & Machine Learning
 
-### 🐍 AI & Machine Learning
+Python · Scikit-learn · Pandas · NumPy · SHAP
 
-`Python` · `Scikit-learn` · `Pandas` · `NumPy` · `SHAP`
+🤖 Generative AI
 
-### 🤖 Generative AI
+LLMs · Generative AI · RAG Pipelines · AI Agents · Prompt Engineering
 
-`LLMs` · `Generative AI` · `RAG Pipelines` · `AI Agents` · `Prompt Engineering`
+👁️ Computer Vision & NLP
 
-### 👁️ Computer Vision & NLP
+OpenCV · Computer Vision · Natural Language Processing · Sentiment Analysis
 
-`OpenCV` · `Computer Vision` · `Natural Language Processing` · `Sentiment Analysis`
+⚙️ Backend Engineering
 
-### ⚙️ Backend Engineering
+FastAPI · Flask · REST APIs
 
-`FastAPI` · `Flask` · `REST APIs`
+🖥️ Frontend & Data
 
-### 🖥️ Frontend & Data
+React · JavaScript · HTML · CSS · PostgreSQL
 
-`React` · `JavaScript` · `HTML` · `CSS` · `PostgreSQL`
+🔧 Development Tools
 
-### 🔧 Development Tools
+Git · GitHub
 
-`Git` · `GitHub`
+🚀 Featured AI Systems
 
----
+🏥 AI Healthcare Prediction Platform
 
-# 🚀 Featured AI Systems
-
-## 🏥 AI Healthcare Prediction Platform
-
-**Machine Learning · Explainable AI · FastAPI · React**
+Machine Learning · Explainable AI · FastAPI · React
 
 An AI-powered healthcare analytics platform designed to transform structured data into predictive insights.
 
-### What It Demonstrates
+What It Demonstrates
 
-* Multi-disease risk prediction
-* Machine learning inference pipelines
-* Explainable predictions using SHAP
-* FastAPI backend services
-* React analytics dashboard
-* PostgreSQL data management
-* API-driven prediction workflows
+Multi-disease risk prediction
 
-### Architecture
+Machine learning inference pipelines
 
-```text
+Explainable predictions using SHAP
+
+FastAPI backend services
+
+React analytics dashboard
+
+PostgreSQL data management
+
+API-driven prediction workflows
+
+Architecture
+
 User
   │
   ▼
@@ -168,27 +179,27 @@ ML Models      SHAP / XAI      PostgreSQL
                   │
                   ▼
          Predictive Insights
-```
 
-**Tech:** `Python` · `Scikit-learn` · `FastAPI` · `React` · `SHAP` · `PostgreSQL`
+Tech: Python · Scikit-learn · FastAPI · React · SHAP · PostgreSQL
 
----
+⚽ Football Data Intelligence Platform
 
-## ⚽ Football Data Intelligence Platform
-
-**Data Processing · Analytics · PostgreSQL · React**
+Data Processing · Analytics · PostgreSQL · React
 
 A data-driven application focused on transforming structured football data into useful performance intelligence.
 
-### What It Demonstrates
+What It Demonstrates
 
-* Structured data processing
-* Analytics pipelines
-* Performance intelligence
-* Interactive visualizations
-* Data-driven dashboards
+Structured data processing
 
-```text
+Analytics pipelines
+
+Performance intelligence
+
+Interactive visualizations
+
+Data-driven dashboards
+
 Football Data
       ↓
 Data Processing
@@ -198,21 +209,15 @@ Analytics Pipeline
 Performance Intelligence
       ↓
 Interactive Dashboard
-```
 
-**Tech:** `Python` · `PostgreSQL` · `React` · `Data Analytics`
+Tech: Python · PostgreSQL · React · Data Analytics
 
----
+🎵 Emotion Music AI
 
-## 🎵 Emotion Music AI
-
-**NLP · Emotion Detection · Recommendation Systems**
+NLP · Emotion Detection · Recommendation Systems
 
 An AI-powered application that connects emotion detection with personalized music recommendations.
 
-### Pipeline
-
-```text
 User Input
     ↓
 Emotion Detection
@@ -222,23 +227,17 @@ NLP Processing
 Recommendation Engine
     ↓
 Personalized Music Experience
-```
 
-**Focus:** `Emotion Detection` · `NLP` · `Sentiment Analysis` · `Recommendation Systems`
+Focus: Emotion Detection · NLP · Sentiment Analysis · Recommendation Systems
 
-📂 **Repository:** [Explore Emotion Music AI](https://github.com/httpsasad/emotion-music-ai-pro)
+📂 Repository: Explore Emotion Music AI
 
----
+🚦 Smart Traffic Management System
 
-## 🚦 Smart Traffic Management System
-
-**Machine Learning · Data Processing · Predictive Analytics**
+Machine Learning · Data Processing · Predictive Analytics
 
 A machine learning-driven system focused on processing traffic data, identifying patterns, and generating intelligent insights.
 
-### Pipeline
-
-```text
 Traffic Data
      ↓
 Data Processing
@@ -248,39 +247,37 @@ Machine Learning
 Traffic Intelligence
      ↓
 Optimization Insights
-```
 
-**Focus:** `Machine Learning` · `Data Processing` · `Predictive Analytics`
+Focus: Machine Learning · Data Processing · Predictive Analytics
 
-📂 **Repository:** [Explore Smart Traffic Management System](https://github.com/httpsasad/smart-traffic-management-system)
+📂 Repository: Explore Smart Traffic Management System
 
----
+🔥 Fire & Smoke Detection System
 
-## 🔥 Fire & Smoke Detection System
-
-**Computer Vision · Deep Learning · OpenCV**
+Computer Vision · Deep Learning · OpenCV
 
 A computer vision system focused on detecting fire and smoke from image and video streams.
 
-### What It Demonstrates
+What It Demonstrates
 
-* Image analysis
-* Video stream processing
-* Computer vision pipelines
-* Deep learning-based detection
-* Real-time detection workflows
+Image analysis
 
-**Tech:** `Python` · `OpenCV` · `Computer Vision` · `Deep Learning`
+Video stream processing
 
-📂 **Repository:** [Explore Fire & Smoke Detection System](https://github.com/httpsasad/fire_smoke_detection_system)
+Computer vision pipelines
 
----
+Deep learning-based detection
 
-# 🏗️ How I Build AI Systems
+Real-time detection workflows
 
-I approach AI applications as **complete engineering systems**, where intelligence is one component of a larger application architecture.
+Tech: Python · OpenCV · Computer Vision · Deep Learning
 
-```text
+📂 Repository: Explore Fire & Smoke Detection System
+
+🏗️ How I Build AI Systems
+
+I approach AI applications as complete engineering systems, where intelligence is one component of a larger application architecture.
+
                     ┌─────────────────────┐
                     │    USER / CLIENT    │
                     └──────────┬──────────┘
@@ -309,60 +306,70 @@ I approach AI applications as **complete engineering systems**, where intelligen
                     ┌─────────────────────┐
                     │  INTELLIGENT OUTPUT │
                     └─────────────────────┘
-```
 
----
+🔨 Current Focus
 
-# 🔨 Current Focus
+Advanced LLM applications
 
-```yaml
-Focus Areas:
-  - Advanced LLM Applications
-  - Retrieval-Augmented Generation
-  - AI Agent Workflows
-  - Intelligent Automation
-  - Production-Oriented AI Architecture
-  - Scalable Machine Learning Systems
-```
+Retrieval-Augmented Generation
 
----
+AI agent workflows
 
-# 💡 What I Build
+Intelligent automation
 
-### 🤖 Intelligent AI Applications
+Production-oriented AI architecture
 
-* LLM-powered applications
-* RAG systems
-* AI assistants
-* AI agent workflows
-* Intelligent automation
+Scalable machine learning systems
 
-### 🧠 Machine Learning Systems
+💡 What I Build
 
-* Predictive analytics
-* Classification systems
-* Recommendation engines
-* Model inference pipelines
-* Explainable AI applications
+🤖 Intelligent AI Applications
 
-### 👁️ Computer Vision Solutions
+LLM-powered applications
 
-* Object detection
-* Image analysis
-* Video analytics
-* Real-time detection systems
+RAG systems
 
-### ⚙️ Full-Stack AI Applications
+AI assistants
 
-* AI-powered REST APIs
-* FastAPI backend services
-* React dashboards
-* PostgreSQL-backed applications
-* End-to-end AI systems
+AI agent workflows
 
----
+Intelligent automation
 
-# 📈 GitHub Activity
+🧠 Machine Learning Systems
+
+Predictive analytics
+
+Classification systems
+
+Recommendation engines
+
+Model inference pipelines
+
+Explainable AI applications
+
+👁️ Computer Vision Solutions
+
+Object detection
+
+Image analysis
+
+Video analytics
+
+Real-time detection systems
+
+⚙️ Full-Stack AI Applications
+
+AI-powered REST APIs
+
+FastAPI backend services
+
+React dashboards
+
+PostgreSQL-backed applications
+
+End-to-end AI systems
+
+📈 GitHub Activity
 
 <div align="center">
 
@@ -374,13 +381,10 @@ Focus Areas:
 
 </div>
 
----
+🎯 Engineering Philosophy
 
-# 🎯 Engineering Philosophy
+Don't just train models. Build systems that people can actually use.
 
-> **Don't just train models. Build systems that people can actually use.**
-
-```text
 Data
   +
 Machine Learning
@@ -394,25 +398,26 @@ Automation
 User Experience
   =
 Real-World AI Systems
-```
 
-The goal is to build at the intersection of:
+Artificial Intelligence × Software Engineering × Automation
 
-### **Artificial Intelligence × Software Engineering × Automation**
-
----
-
-# 🤝 Let's Build Something Intelligent
+🤝 Let's Build Something Intelligent
 
 I'm interested in collaborating on:
 
-* 🚀 AI-powered products
-* 🤖 LLM applications
-* 🔎 RAG systems
-* 🧠 Machine learning platforms
-* ⚙️ Intelligent automation
-* 👁️ Computer vision solutions
-* 🌍 End-to-end AI applications
+🚀 AI-powered products
+
+🤖 LLM applications
+
+🔎 RAG systems
+
+🧠 Machine learning platforms
+
+⚙️ Intelligent automation
+
+👁️ Computer vision solutions
+
+🌍 End-to-end AI applications
 
 <br/>
 
@@ -430,14 +435,12 @@ I'm interested in collaborating on:
 
 <br/><br/>
 
-📍 **Lahore, Pakistan**
-
----
+📍 Lahore, Pakistan
 
 <div align="center">
 
-### ⭐ Explore the repositories and follow the journey.
+⭐ Explore the repositories and follow the journey.
 
-**BUILD · LEARN · DEPLOY · REPEAT 🚀**
+BUILD · LEARN · DEPLOY · REPEAT 🚀
 
 </div>
