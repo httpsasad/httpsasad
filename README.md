@@ -4,19 +4,25 @@
 
 ### AI Engineer | Machine Learning | LLMs & Generative AI | Computer Vision
 
-**Building Production-Oriented AI Systems with ML, LLMs & Computer Vision**
+## Building Production-Oriented AI Systems with ML, LLMs & Computer Vision
+
+**Transforming data, machine learning, and intelligent automation into practical AI applications.**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammadasadakram/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Asad%20Akram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Asad%20Akram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.kaggle.com/asad30">
-  <img src="https://img.shields.io/badge/Kaggle-asad30-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-asad30-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
 <a href="mailto:asaddaha3073@gmail.com">
-  <img src="https://img.shields.io/badge/Email-asaddaha3073%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-asaddaha3073%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+<br/><br/>
+
+`Machine Learning` • `Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Computer Vision`
 
 </div>
 
@@ -26,7 +32,7 @@
 
 I am an AI Engineer focused on building practical, end-to-end intelligent applications using **Machine Learning, Generative AI, Large Language Models, RAG pipelines, AI agents, and Computer Vision**.
 
-My work goes beyond training individual models. I focus on connecting data, intelligence, APIs, and application layers to build systems designed for real-world use.
+My work goes beyond training individual models. I focus on connecting **data, intelligence, APIs, automation, and application layers** to build systems designed for real-world use.
 
 - 🔭 Building end-to-end AI and Machine Learning applications
 - 🤖 Working with **LLMs, Generative AI, RAG, and AI Agents**
@@ -39,41 +45,55 @@ My work goes beyond training individual models. I focus on connecting data, inte
 
 ---
 
-## 🧠 What I Work With
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+### 🧠 Machine Learning & AI
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<br/><br/>
+
+`Pandas` · `NumPy` · `SHAP` · `Predictive Analytics`
 
 ### 🤖 Generative AI
 
-`LLMs` `Generative AI` `RAG` `AI Agents` `Prompt Engineering`
-
-### 🧠 Machine Learning & Data
-
-`Python` `Scikit-learn` `Pandas` `NumPy` `Predictive Analytics` `SHAP`
+`LLMs` · `Generative AI` · `RAG` · `AI Agents` · `Prompt Engineering`
 
 ### 👁️ Computer Vision & NLP
 
-`OpenCV` `Computer Vision` `NLP` `Sentiment Analysis` `Emotion Detection`
+<img src="https://skillicons.dev/icons?i=opencv" />
 
-### ⚙️ Backend & APIs
+<br/><br/>
 
-`FastAPI` `Flask` `REST APIs`
+`Computer Vision` · `NLP` · `Sentiment Analysis` · `Emotion Detection`
 
-### 🖥️ Frontend & Databases
+### ⚙️ Backend, Frontend & Database
 
-`React` `JavaScript` `HTML` `CSS` `PostgreSQL`
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgresql" />
 
 ### 🔧 Development Tools
 
-`Git` `GitHub`
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 AI Healthcare Prediction Platform
+## 🏥 AI Healthcare Prediction Platform
 
-An AI-powered healthcare analytics platform designed to transform structured data into predictive insights through machine learning models and explainable AI.
+**Machine Learning · Explainable AI · FastAPI · React**
 
-**Key Highlights:**
+An AI-powered healthcare analytics platform designed to transform structured data into predictive insights using machine learning and explainable AI.
+
+### Key Highlights
 
 - Multi-disease risk prediction
 - Machine learning inference pipelines
@@ -84,33 +104,38 @@ An AI-powered healthcare analytics platform designed to transform structured dat
 - API-driven prediction workflows
 
 **Tech Stack:**  
-`Python` `Scikit-learn` `FastAPI` `React` `SHAP` `PostgreSQL`
+`Python` · `Scikit-learn` · `FastAPI` · `React` · `SHAP` · `PostgreSQL`
 
 ---
 
-### 🎵 Emotion Music AI
+## 🎵 Emotion Music AI
+
+**NLP · Emotion Detection · Recommendation Systems**
 
 An AI-powered application that combines emotion detection and NLP with personalized music recommendations.
 
-**Key Highlights:**
+### Key Highlights
 
 - Emotion and sentiment detection
 - NLP processing
 - Recommendation engine
-- Personalized user experience
+- Personalized music experience
 
 **Tech Stack:**  
-`Python` `NLP` `Machine Learning` `Recommendation Systems`
+`Python` · `NLP` · `Machine Learning` · `Recommendation Systems`
 
-🔗 [View Repository](https://github.com/httpsasad/emotion-music-ai-pro)
+🔗 **Repository:**  
+[View Emotion Music AI](https://github.com/httpsasad/emotion-music-ai-pro)
 
 ---
 
-### 🚦 Smart Traffic Management System
+## 🚦 Smart Traffic Management System
 
-A machine learning-driven system designed to process traffic data, identify patterns, and generate intelligent insights for traffic analysis.
+**Machine Learning · Data Processing · Predictive Analytics**
 
-**Key Highlights:**
+A machine learning-driven system designed to process traffic data, identify patterns, and generate intelligent insights.
+
+### Key Highlights
 
 - Traffic data processing
 - Machine learning workflows
@@ -118,17 +143,20 @@ A machine learning-driven system designed to process traffic data, identify patt
 - Intelligent insights
 
 **Tech Stack:**  
-`Python` `Machine Learning` `Data Processing` `Predictive Analytics`
+`Python` · `Machine Learning` · `Data Processing` · `Predictive Analytics`
 
-🔗 [View Repository](https://github.com/httpsasad/smart-traffic-management-system)
+🔗 **Repository:**  
+[View Smart Traffic Management System](https://github.com/httpsasad/smart-traffic-management-system)
 
 ---
 
-### 🔥 Fire & Smoke Detection System
+## 🔥 Fire & Smoke Detection System
 
-A Computer Vision system designed to detect fire and smoke from image and video streams.
+**Computer Vision · Deep Learning · OpenCV**
 
-**Key Highlights:**
+A computer vision system designed to detect fire and smoke from image and video streams.
+
+### Key Highlights
 
 - Image analysis
 - Video stream processing
@@ -137,17 +165,20 @@ A Computer Vision system designed to detect fire and smoke from image and video 
 - Real-time detection workflows
 
 **Tech Stack:**  
-`Python` `OpenCV` `Computer Vision` `Deep Learning`
+`Python` · `OpenCV` · `Computer Vision` · `Deep Learning`
 
-🔗 [View Repository](https://github.com/httpsasad/fire_smoke_detection_system)
+🔗 **Repository:**  
+[View Fire & Smoke Detection System](https://github.com/httpsasad/fire_smoke_detection_system)
 
 ---
 
-### ⚽ Football Data Intelligence Platform
+## ⚽ Football Data Intelligence Platform
+
+**Data Processing · Analytics · PostgreSQL · React**
 
 A data-driven platform focused on transforming structured football data into useful performance insights and interactive analytics.
 
-**Key Highlights:**
+### Key Highlights
 
 - Structured data processing
 - Performance analytics
@@ -155,11 +186,11 @@ A data-driven platform focused on transforming structured football data into use
 - Data-driven dashboards
 
 **Tech Stack:**  
-`Python` `PostgreSQL` `React` `Data Analytics`
+`Python` · `PostgreSQL` · `React` · `Data Analytics`
 
 ---
 
-## 🏗️ What I Build
+# 🏗️ What I Build
 
 <table>
 <tr>
@@ -216,7 +247,7 @@ A data-driven platform focused on transforming structured football data into use
 
 ---
 
-## 🔭 Current Focus
+# 🔭 Current Focus
 
 - Advanced LLM applications
 - Retrieval-Augmented Generation
@@ -227,27 +258,52 @@ A data-driven platform focused on transforming structured football data into use
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&hide_border=true"
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
   alt="Muhammad Asad Akram GitHub Stats"
 />
 
-<br/><br/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+  alt="Top Languages"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&hide_border=true"
-  alt="Most Used Languages"
+  src="https://streak-stats.demolab.com?user=httpsasad&theme=transparent&hide_border=true"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
 
 ---
 
-## 🎯 Engineering Philosophy
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=httpsasad&theme=github-compact&hide_border=true"
+  alt="GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
+# 🎯 Engineering Philosophy
 
 > **A model is only the beginning.**
 
@@ -255,15 +311,15 @@ The real challenge is transforming intelligence into a reliable, usable, and pra
 
 I enjoy building at the intersection of:
 
-**Artificial Intelligence × Software Engineering × Automation**
+## **Artificial Intelligence × Software Engineering × Automation**
 
 with a focus on creating intelligent products that solve real-world problems.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-I'm always interested in collaborating on:
+I'm interested in collaborating on:
 
 - 🚀 AI-powered products
 - 🤖 LLM and Generative AI applications
@@ -271,26 +327,28 @@ I'm always interested in collaborating on:
 - 🧠 Machine Learning solutions
 - ⚙️ AI automation
 - 👁️ Computer Vision applications
-- 🌍 Full-stack AI products
+- 🌍 End-to-end AI products
 
 <div align="center">
 
+<br/>
+
 <a href="https://www.linkedin.com/in/muhammadasadakram/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://www.kaggle.com/asad30">
-  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
 
 <a href="mailto:asaddaha3073@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
 ### 📍 Lahore, Pakistan
 
-**BUILD · LEARN · DEPLOY · REPEAT 🚀**
+# BUILD · LEARN · DEPLOY · REPEAT 🚀
 
 </div>
