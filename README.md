@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Muhammad Asad Akram" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Machine+Learning+%7C+Agentic+AI+%7C+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Machine+Learning+%7C+Agentic+AI+%7C+Computer+Vision;Models+that+ship%2C+not+just+models+that+train;Mandi+ERP+%E2%86%92+Traffic+AI+%E2%86%92+Fire+Detection+%E2%86%92+LLM+Agents;Urdu+%2B+English%2C+built+for+real+users" alt="Typing SVG" />
 
 ## Building Production-Oriented AI Systems with ML, LLM Agents & Computer Vision
 
@@ -36,7 +36,7 @@ My work goes beyond training individual models. I connect **data, intelligence, 
 - 👁️ Developing **real-time Computer Vision and detection systems** (YOLOv8, MediaPipe)
 - ⚙️ Building **FastAPI / Flask backends, REST APIs and WebSocket dashboards**
 - 🌐 Building for local users too: **Urdu + English** support
-- 📍 Based in **Bahawalpur, Pakistan**
+- 📍 Based in **Lahore, Pakistan**
 
 > **Don't just train models. Build systems that people can actually use.**
 
@@ -56,7 +56,7 @@ My work goes beyond training individual models. I connect **data, intelligence, 
 
 <br/><br/>
 
-`Pandas` · `NumPy` · `YOLOv8` · `MediaPipe` · `Gemini API`
+`Pandas` · `NumPy` · `XGBoost` · `SMOTE` · `SHAP` · `Hugging Face` · `RAG` · `YOLOv8` · `MediaPipe` · `Gemini API`
 
 ### 👁️ Computer Vision
 
@@ -72,6 +72,10 @@ My work goes beyond training individual models. I connect **data, intelligence, 
 
 <br/><br/>
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,postgres,mysql,mongodb,redis" />
+
+<br/><br/>
+
 `SQLAlchemy` · `JWT Auth` · `REST APIs` · `Multi-Tenant SaaS` · `Pytest`
 
 ### 🔧 Development & Deployment
@@ -83,6 +87,61 @@ My work goes beyond training individual models. I connect **data, intelligence, 
 `Railway Cloud` · `CI/CD` · `Pytest`
 
 </div>
+
+---
+
+# 💼 Professional Experience
+
+### 🟢 AI & ML Engineer · Neffto IT Solutions
+`Sep 2026 – Present`
+
+- Developing and integrating machine learning and NLP models into Python applications, from data preprocessing to training and evaluation
+- Serving models through **FastAPI REST APIs**, applying feature engineering and EDA to improve model performance and stability
+
+---
+
+### 🔹 Machine Learning Engineer Intern · Progree, Islamabad
+`Sep 2026 · 1 Month`
+
+- Built a **clinical disease prediction pipeline** on imbalanced data using **SMOTE**; tuned SVM, Random Forest and XGBoost to maximize recall
+- Designed a **TensorFlow/Keras CNN** with data augmentation for image classification, and a Ridge/Linear regression pipeline evaluated with R² and RMSE
+
+---
+
+### 🔹 Machine Learning Engineer Intern · FlyRank AI, Lahore
+`Jun 2026 – Aug 2026`
+
+- Developed a classification model on a business dataset, improving prediction accuracy by **~15%** over baseline
+- Built data preprocessing pipelines that reduced cleaning time; worked in a remote agile team on AI workflows
+
+---
+
+### 🔹 Machine Learning Engineer Intern · CodeAlpha, Remote
+`May 2026 – Jul 2026`
+
+- Analyzed real-world datasets and delivered end-to-end preprocessing, model development and evaluation using Python
+
+---
+
+### 🔹 Machine Learning Engineer · IntelliXsoft, Bahawalpur
+`Sep 2025 – Aug 2026`
+
+- Integrated ML models into Python applications and improved stability and performance of deployed models
+- Streamlined data workflows with advanced cleaning, transformation and EDA using **Pandas** and **NumPy**
+
+---
+
+### 🔹 Python Developer · IntelliXsoft, Bahawalpur
+`May 2025 – Sep 2025`
+
+- Deployed ML models that improved prediction accuracy by **15–20%**; cleaned and processed **50,000+ records**
+- Automated data pipelines (**30% less manual processing time**) and delivered analytical dashboards for stakeholders
+
+---
+
+# 🎓 Education
+
+**BS Software Engineering** · The Islamia University of Bahawalpur · `2021 – 2025`
 
 ---
 
@@ -222,6 +281,42 @@ An AI application that detects human emotion and recommends music that matches t
 
 ---
 
+## 🏥 AI Healthcare Risk Prediction Platform
+
+**Machine Learning · Explainable AI · FastAPI · React**
+
+An end-to-end multi-disease risk prediction platform that turns structured patient data into explainable predictions.
+
+### Key Highlights
+
+- FastAPI real-time inference
+- SHAP-based model explainability
+- Interactive React.js dashboard
+- PostgreSQL for patient data management
+
+**Tech Stack:**
+`Python` · `Scikit-Learn` · `FastAPI` · `React.js` · `SHAP` · `PostgreSQL`
+
+---
+
+## 🧑‍💼 FaceAttend AI: Face Recognition Attendance System
+
+**Computer Vision · Face Recognition · Real-Time**
+
+A real-time attendance system powered by face recognition and live video streaming.
+
+### Key Highlights
+
+- dlib 128-D face embeddings for recognition
+- Gender and age-group detection
+- Live notifications with Flask-SocketIO
+- Searchable records, filters and one-click CSV export
+
+**Tech Stack:**
+`Python` · `Flask` · `OpenCV` · `dlib` · `Socket.IO` · `SQLite`
+
+---
+
 # 🏗️ What I Build
 
 <table>
@@ -317,20 +412,6 @@ An AI application that detects human emotion and recommends music that matches t
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://ghchart.rshah.org/22d3ee/httpsasad"
-  alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
 # 🎯 Engineering Philosophy
 
 > **A model is only the beginning.**
@@ -370,7 +451,7 @@ I'm interested in collaborating on:
 
 <br/><br/>
 
-### 📍 Bahawalpur, Pakistan
+### 📍 Lahore, Pakistan
 
 # BUILD · LEARN · DEPLOY · REPEAT 🚀
 
