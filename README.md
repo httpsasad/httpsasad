@@ -1,93 +1,377 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Muhammad+Asad+Akram;AI+%26+Machine+Learning+Engineer;I+build+AI+that+sees%2C+decides+and+acts." alt="Typing SVG" />
+# 👋 Hi, I'm Muhammad Asad Akram
 
-**Computer Vision • Deep Learning • Agentic AI • Full-Stack AI Products**
+### AI Engineer | Machine Learning | Agentic AI | Computer Vision
 
-<a href="https://www.linkedin.com/in/muhammadasadakram"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/asad30"><img src="https://img.shields.io/badge/Kaggle-asad30-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Bahawalpur-Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=httpsasad&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" />
+## Building Production-Oriented AI Systems with ML, LLM Agents & Computer Vision
 
-</div>
+**Turning models, data and automation into practical AI applications people can actually use.**
 
----
+<br/>
 
-## 👋 About Me
+<a href="https://www.linkedin.com/in/muhammadasadakram/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Asad%20Akram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.kaggle.com/asad30">
+  <img src="https://img.shields.io/badge/Kaggle-asad30-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
 
-I'm an AI engineer who likes taking models out of notebooks and putting them into products people can actually use: real-time dashboards, live camera pipelines, and multi-agent systems that complete tasks end to end.
+<br/><br/>
 
-- 🔭 Currently building: **agentic AI services** and **real-time computer vision systems**
-- 🌐 Building for local needs too: my projects support **Urdu + English** users
-- 🎯 Focus: turning ML research into reliable, deployable, well-documented software
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🤖 **[KhidmatAI – AI Services Orchestrator](https://github.com/httpsasad/ai-services-orchestrator)** | Multi-agent platform that understands requests like *"mujhe AC mechanic chahiye"*, finds real nearby providers and books them. Five cooperating agents: Linguist, Matchmaker, Planner, Executor, Concierge. | `FastAPI` `Gemini` `Firebase` `Flutter` `Docker` |
-| 🚦 **[Smart Traffic Management System](https://github.com/httpsasad/smart-traffic-management-system)** | Real-time traffic analytics with YOLOv8 detection, homography-based speed estimation, ANPR plate logging, per-lane density and an emergency-vehicle green override. | `YOLOv8` `OpenCV` `Flask-SocketIO` `SQLite` |
-| 🔥 **[GuardianAI – Fire & Smoke Detection](https://github.com/httpsasad/fire_smoke_detection_system)** | Multi-camera fire/smoke surveillance with siren alarm, Email + Telegram alerts, ROI exclusion zones, hourly analytics and one-click PDF incident reports. | `YOLOv8` `OpenCV` `Flask` `ReportLab` |
-| ✋ **[AI Air-Writing System](https://github.com/httpsasad/Hand-Gesture)** | Write in the air with your finger. MediaPipe tracks the hand, gestures control the canvas, Gemini reads what you wrote. | `MediaPipe` `OpenCV` `Gemini` |
-| 🎵 **[Emotion Music AI Pro](https://github.com/httpsasad/emotion-music-ai-pro)** | Detects facial emotion and recommends music to match the mood. | `Deep Learning` `OpenCV` `Python` |
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-| Area | What I work with |
-|---|---|
-| **Computer Vision** | YOLOv8 detection & tracking, MediaPipe, homography, OCR / ANPR |
-| **LLMs & Agents** | Gemini API, multi-agent orchestration, intent extraction |
-| **Backend & Realtime** | FastAPI, Flask, WebSockets, REST, SQLite, Firestore |
-| **Frontend & Mobile** | Flutter, Chart.js, Leaflet, glassmorphic dashboards |
-| **Delivery** | Docker, Cloudflare Tunnel, `.env`-based config |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=httpsasad&theme=tokyonight&hide_border=true" />
+`Machine Learning` • `Deep Learning` • `LLM Agents` • `Computer Vision` • `Full-Stack AI`
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 👨‍💻 About Me
 
-I'm open to collaborations, AI/CV projects and internships or roles in applied ML.
+I am an AI Engineer focused on building practical, end-to-end intelligent applications using **Machine Learning, Deep Learning, LLM-powered agents, and Computer Vision**.
+
+My work goes beyond training individual models. I connect **data, intelligence, APIs, automation and application layers** into systems designed for real-world use.
+
+- 🔭 Building end-to-end AI applications, from model to dashboard
+- 🤖 Working with **LLM agents and multi-agent orchestration** (Gemini)
+- 👁️ Developing **real-time Computer Vision and detection systems** (YOLOv8, MediaPipe)
+- ⚙️ Building **FastAPI / Flask backends, REST APIs and WebSocket dashboards**
+- 🌐 Building for local users too: **Urdu + English** support
+- 📍 Based in **Bahawalpur, Pakistan**
+
+> **Don't just train models. Build systems that people can actually use.**
+
+---
+
+# 🛠️ Technology Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-muhammadasadakram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadasadakram)
-[![Kaggle](https://img.shields.io/badge/-asad30-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asad30)
+### 💻 Languages
 
-*"Make it work, make it right, make it ship."* 🚢
+<img src="https://skillicons.dev/icons?i=python,dart,js,html,css" />
+
+### 🧠 Machine Learning & AI
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<br/><br/>
+
+`Pandas` · `NumPy` · `YOLOv8` · `MediaPipe` · `Gemini API`
+
+### 👁️ Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+<br/><br/>
+
+`Object Detection` · `Object Tracking` · `Homography` · `OCR / ANPR` · `Hand & Face Analysis`
+
+### ⚙️ Backend, Mobile & Database
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,flutter,firebase,sqlite" />
+
+<br/><br/>
+
+`SQLAlchemy` · `JWT Auth` · `REST APIs` · `Multi-Tenant SaaS` · `Pytest`
+
+### 🔧 Development & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+<br/><br/>
+
+`Railway Cloud` · `CI/CD` · `Pytest`
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 AI-Powered Grain Market ERP & Multi-Tenant Management System
+
+**Full-Stack & Mobile · FastAPI · Flutter · Machine Learning · SaaS**
+
+**Role:** Full-Stack & Mobile App Developer
+
+A comprehensive, enterprise-grade Mandi ERP system that automates agricultural trade settlements, double-entry financial ledgers and crop price predictions. Built with a FastAPI REST backend and a cross-platform Flutter mobile app.
+
+### Key Highlights
+
+- **Custom Mandi Settlement Engine:** automated trade settlement with split-lot crop sales, multi-tier palledari deductions (Labour, Brokerage, Scale/Tulai charges) and dynamic Buyer/Farmer commission routing
+- **Double-Entry Accounting:** chronological running-balance ledger engine with automatic historical balance recalculation for Farmers, Buyers (Mills) and Mandi Brokers
+- **Multi-Tenant SaaS Architecture:** secure JWT-based multi-tenancy with isolated data access, so multiple grain market shops run on one infrastructure
+- **Cross-Platform Mobile App:** responsive Flutter app with real-time settlement calculators, English/Urdu language toggle and smooth REST API integration
+- **Predictive ML Insights:** Scikit-Learn models forecasting 7-day price trends for Wheat, Rice, Cotton, Chickpeas and Maize
+- **Automated Testing & Deployment:** Pytest suite with a 100% pass rate and continuous deployment to Railway cloud
+
+**Tech Stack:**
+`Python` · `FastAPI` · `Flutter (Dart)` · `SQLAlchemy` · `SQLite` · `JWT Auth` · `Scikit-Learn` · `Pytest` · `REST APIs` · `Docker` · `Railway`
+
+---
+
+## 🤖 KhidmatAI: AI Services Orchestrator
+
+**Multi-Agent AI · Gemini · FastAPI · Flutter**
+
+An intelligent multi-agent platform that understands natural-language requests in English or Urdu (e.g. *"mujhe AC mechanic chahiye"*), finds real nearby providers and books them automatically.
+
+### Key Highlights
+
+- Five cooperating agents: Linguist, Matchmaker, Planner, Executor, Concierge
+- Intent and urgency extraction with Google Gemini
+- Live provider search using Google Places and OpenStreetMap
+- Automated booking with Firebase Firestore
+- FastAPI web UI plus Flutter mobile app
+- Docker-ready deployment
+
+**Tech Stack:**
+`Python` · `FastAPI` · `Gemini` · `Firebase` · `Flutter` · `Docker`
+
+🔗 **Repository:**
+[View KhidmatAI](https://github.com/httpsasad/ai-services-orchestrator)
+
+---
+
+## 🚦 Smart Traffic Management System
+
+**Computer Vision · YOLOv8 · Real-Time Analytics**
+
+A real-time traffic analytics and dynamic signal-control platform with a live web dashboard.
+
+### Key Highlights
+
+- YOLOv8 vehicle detection and tracking
+- Speed estimation (km/h) using homography calibration
+- Automatic number plate recognition (ANPR) with SQLite logging
+- Multi-lane density monitoring with LOW / MEDIUM / HIGH status
+- Emergency-vehicle detection with green-signal override
+- Live MJPEG stream, WebSocket updates and Chart.js analytics
+
+**Tech Stack:**
+`Python` · `YOLOv8` · `OpenCV` · `Flask-SocketIO` · `SQLite` · `Chart.js`
+
+🔗 **Repository:**
+[View Smart Traffic Management System](https://github.com/httpsasad/smart-traffic-management-system)
+
+---
+
+## 🔥 GuardianAI: Fire & Smoke Detection System
+
+**Computer Vision · Deep Learning · Alerting**
+
+An enterprise-style surveillance platform that detects fire and smoke from live camera streams and raises alerts instantly.
+
+### Key Highlights
+
+- YOLOv8 detection with an HSV colour-based fallback
+- Multi-source input: webcam, video files and RTSP IP cameras
+- Siren alarm with live mute control
+- Email and Telegram alerts with snapshots
+- ROI exclusion zones to ignore known heat sources
+- Hourly incident analytics and one-click PDF audit reports
+
+**Tech Stack:**
+`Python` · `YOLOv8` · `OpenCV` · `Flask` · `Socket.IO` · `ReportLab`
+
+🔗 **Repository:**
+[View Fire & Smoke Detection System](https://github.com/httpsasad/fire_smoke_detection_system)
+
+---
+
+## ✋ AI Hand Gesture Air-Writing System
+
+**Computer Vision · MediaPipe · Gemini**
+
+Write in the air with your finger: a webcam tracks your hand and an AI model reads what you wrote.
+
+### Key Highlights
+
+- Real-time hand tracking with 21 landmarks per hand
+- Gesture controls for draw, pause, erase, clear and colour change
+- Smooth strokes using a moving-average filter
+- Handwriting recognition with Google Gemini
+- Save the canvas as PNG
+
+**Tech Stack:**
+`Python` · `OpenCV` · `MediaPipe` · `Gemini`
+
+🔗 **Repository:**
+[View Hand Gesture Project](https://github.com/httpsasad/Hand-Gesture)
+
+---
+
+## 🎵 Emotion Music AI Pro
+
+**Emotion Detection · Deep Learning · Recommendation**
+
+An AI application that detects human emotion and recommends music that matches the mood.
+
+### Key Highlights
+
+- Real-time emotion detection
+- Mood-based music recommendation
+- Personalized playlist generation
+- Full-stack architecture
+
+**Tech Stack:**
+`Python` · `Deep Learning` · `OpenCV` · `Recommendation Systems`
+
+🔗 **Repository:**
+[View Emotion Music AI Pro](https://github.com/httpsasad/emotion-music-ai-pro)
+
+---
+
+# 🏗️ What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Applications
+
+- LLM-powered applications
+- Multi-agent systems
+- AI assistants
+- Intelligent automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning Systems
+
+- Classification systems
+- Recommendation engines
+- Model inference pipelines
+- Predictive analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+- Object detection and tracking
+- Gesture recognition
+- Video analytics
+- Real-time detection systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Full-Stack AI
+
+- FastAPI / Flask backends
+- REST APIs and WebSockets
+- Live dashboards
+- Flutter mobile apps
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔭 Current Focus
+
+- Advanced LLM applications and agent workflows
+- Production-oriented AI architecture
+- Real-time computer vision systems
+- Intelligent automation
+- Scalable Machine Learning systems
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=httpsasad&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Muhammad Asad Akram GitHub Stats"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsasad&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+  alt="Top Languages"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=httpsasad&theme=transparent&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=httpsasad&theme=github-compact&hide_border=true"
+  alt="GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
+# 🎯 Engineering Philosophy
+
+> **A model is only the beginning.**
+
+The real challenge is transforming intelligence into a reliable, usable, and practical system.
+
+I enjoy building at the intersection of:
+
+## **Artificial Intelligence × Software Engineering × Automation**
+
+with a focus on creating intelligent products that solve real-world problems.
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in collaborating on:
+
+- 🚀 AI-powered products
+- 🤖 LLM and multi-agent applications
+- 🧠 Machine Learning solutions
+- ⚙️ AI automation
+- 👁️ Computer Vision applications
+- 🌍 End-to-end AI products
+
+<div align="center">
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammadasadakram/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.kaggle.com/asad30">
+  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
+<br/><br/>
+
+### 📍 Bahawalpur, Pakistan
+
+# BUILD · LEARN · DEPLOY · REPEAT 🚀
 
 </div>
