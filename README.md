@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:22D3EE&height=220&section=header&text=Muhammad%20Asad%20Akram&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Salaam%20%F0%9F%91%8B%20%7C%20I%20teach%20machines%20to%20see%2C%20think%20%26%20act&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Muhammad Asad Akram" />
+<img src="assets/banner.svg" width="100%" alt="Muhammad Asad Akram" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Machine+Learning+%7C+Agentic+AI+%7C+Computer+Vision;Models+that+ship%2C+not+just+models+that+train;Mandi+ERP+%E2%86%92+Traffic+AI+%E2%86%92+Fire+Detection+%E2%86%92+LLM+Agents;Urdu+%2B+English%2C+built+for+real+users" alt="Typing SVG" />
 
