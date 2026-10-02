@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Muhammad Asad Akram" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Machine+Learning+%7C+Agentic+AI+%7C+Computer+Vision;Models" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Machine+Learning+%7C+Agentic+AI+%7C+Computer+Vision" alt="Typing SVG" />
 
 ## Building Production-Oriented AI Systems with ML, LLM Agents & Computer Vision
 
