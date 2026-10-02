@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm an AI engineer at **IntelliXsoft** who likes taking models out of notebooks and putting them into products people can actually use: real-time dashboards, live camera pipelines, and multi-agent systems that complete tasks end to end.
+I'm an AI engineer who likes taking models out of notebooks and putting them into products people can actually use: real-time dashboards, live camera pipelines, and multi-agent systems that complete tasks end to end.
 
 - 🔭 Currently building: **agentic AI services** and **real-time computer vision systems**
 - 🌐 Building for local needs too: my projects support **Urdu + English** users
