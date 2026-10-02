@@ -167,6 +167,9 @@ A comprehensive, enterprise-grade Mandi ERP system that automates agricultural t
 **Tech Stack:**
 `Python` · `FastAPI` · `Flutter (Dart)` · `SQLAlchemy` · `SQLite` · `JWT Auth` · `Scikit-Learn` · `Pytest` · `REST APIs` · `Docker` · `Railway`
 
+🔗 **Repository:**
+[View Grain Market Management System](https://github.com/httpsasad/Grain-Market-Management-System)
+
 ---
 
 ## 🤖 KhidmatAI: AI Services Orchestrator
