@@ -101,7 +101,7 @@ My work goes beyond training individual models. I connect **data, intelligence, 
 ---
 
 ### 🔹 Machine Learning Engineer Intern · Progree, Islamabad
-`Sep 2026 · 1 Month`
+`Sep 2026 - October 2026`
 
 - Built a **clinical disease prediction pipeline** on imbalanced data using **SMOTE**; tuned SVM, Random Forest and XGBoost to maximize recall
 - Designed a **TensorFlow/Keras CNN** with data augmentation for image classification, and a Ridge/Linear regression pipeline evaluated with R² and RMSE
