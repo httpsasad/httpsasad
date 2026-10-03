@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Muhammad Asad Akram" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Machine+Learning+%7C+Agentic+AI+%7C+Computer+Vision;Models+that+ship%2C+not+just+models+that+train;Mandi+ERP+%E2%86%92+Traffic+AI+%E2%86%92+Fire+Detection+%E2%86%92+LLM+Agents;Urdu+%2B+English%2C+built+for+real+users" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Machine+Learning+%7C+Agentic+AI+%7C+Computer+Vision" alt="Typing SVG" />
 
 ## Building Production-Oriented AI Systems with ML, LLM Agents & Computer Vision
 
